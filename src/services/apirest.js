@@ -1,0 +1,1 @@
+export const Apiurl="https://dummyapi.io/data/v1/";
